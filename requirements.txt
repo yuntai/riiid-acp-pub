@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+fastai
+fastcore
+pytorch_block_sparse
+joblib
+tqdm
+ipython
+jupyterthemes
+jupyterlab
+jupyter-http-over-ws
